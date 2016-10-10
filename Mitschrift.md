@@ -96,7 +96,7 @@ Die _relative Häufigkeit_ seie als $f_{i} = \frac{n_{i}}{n}$ bezeichnet.
 
 #### Kreisdiagramm
 Bei einem solchen wird der Gesamtwinkel eines Kreises entsprechend der Häufigkeit aufgeteilt.  
-Zu jedem $f_{i}$ gehört nun der Winkel $$\varphi_{i} = 360^{\circ} * f_{i} = 2 * \pi * f_{i}$$
+Zu jedem $f_{i}$ gehört nun der Winkel $$\varphi_{i} = 360^{\circ} . f_{i} = 2 \cdot \pi \times f_{i}$$
 
 Kreisdiagramme können allerdings durch entsprechende Farbgebung, oder gar durch Herausziehen einzelner Kreissegmente leicht eine manipulative Wirkung ausüben können. Überdies sind speziell kleine Unterschiede in den relativen Häufigkeiten schwer erkennbar.
 
