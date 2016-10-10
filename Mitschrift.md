@@ -90,11 +90,23 @@ Für $p = 1$ (einspaltig) spricht man von _univariaten_, bei $p > 1$ (mehrspalti
 Die Darstellung von solchen Daten erfolgt durch Bestimmung von Häufigkeiten und einer geeigneten Visualisierung.
 
 #### Häufigkeiten
-
 Ein diskretes Merkmal $x_{1} < x_{2} < ...$ werde $n$ mal beobachtet.  
 Die _absolute Häufigkeit_ mit der $x_{i}$ beobachtet wurde, werde mit $n_{i}$ bezeichnet.  
-Die _relative Häufigkeit_ seien als $f_{i} = \frac{n_{i}}{n}$ bezeichnet.
+Die _relative Häufigkeit_ seie als $f_{i} = \frac{n_{i}}{n}$ bezeichnet.
 
+#### Kreisdiagramm
+Bei einem solchen wird der Gesamtwinkel eines Kreises entsprechend der Häufigkeit aufgeteilt.  
+Zu jedem $f_{i}§ gehört nun der Winkel $$\varphi_{i} = 360^{\circ} * f_{i} = 2 * \pi * f_{i}$$
+
+Kreisdiagramme können allerdings durch entsprechende Farbgebung, oder gar durch Herausziehen einzelner Kreissegmente leicht eine manipulative Wirkung ausüben können. Überdies sind speziell kleine Unterschiede in den relativen Häufigkeiten schwer erkennbar.
+
+#### Balkendiagramm, Barplot
+Dieses ist eine grafische Darstellung der Häufigkeiten mit Balken der Länge $n_{i}$ (oder $f_{i}$) über den Merkmalswerten $x_{i}$.  
+Bei der vergleichenden Darstellung mehrerer Häufigkeitsverteilungen können die Balken auch übereinander gestapelt gezeichnet werden.
+
+#### Mosaikplot
+
+#### Pareto-Diagramm
 
 
 
