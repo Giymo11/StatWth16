@@ -31,4 +31,23 @@ Besteht die Grundgesamtheit aus $N$ Elementen, und eine Stichprobe von $n$ Eleme
 
 Die Ziehung der Stichprobe kann auch _mit Zurücklegen_ erfolgen. In diesem fall gibt es $$N^n$$ Möglichkeiten.
 
+### Merkmale
+
+Merkmal, Variable - Die interessierenden Größen an den Einheiten (der Stichprobe)
+Merkmalsausprägungen - Die Werte, die ein Merkmal annehmen kann.
+
+Arten von Merkmalsausprägungen:
+* Das Merkmal des Monats hat genau zwei Auspägungen
+* Das Merkmal des Jahres hat potenziell unbeschränkt viele Ausprägungen
+* Der Tagesfortschritt in Prozent hat unendlich viele Ausprägungen in einem Intervall 0-1
+
+Aus mathematischer Sicht ist ein Merkmal eine Funktion die jedem Element $g$ der Grundgesamtheit $G$ ein element $X(g)$ des Merkmalraums $M$ zuordnet.
+$$g \in G \rightarrow X(g) \in M$$
+
+
+
+
+
+
+
 
