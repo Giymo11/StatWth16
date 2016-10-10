@@ -65,7 +65,7 @@ Sinnvolle Aussagen: Zahlenmäßige Ausprägungen dienen nur der Kodierung.
   
 Anmerkung: Manchmal werden nominale Merkmale durch entsprechende Kodierung auf Ordinalniveu gehoben (zB Schularten). Dabei ist es wichtig, dass keine (eigenen) Wertungen einfließen.
 
-#### Ordinalskalen
+##### Ordinalskalen
 Lineare Ordnugsbeziehung. 
 Beispiele: Richterskala.  
 Sinnvolle Aussagen: Ordnung. $x < x+1$
@@ -79,7 +79,7 @@ Sinvolle Aussagen: Differenzen. $x_{1}-x_{2} < y_{1}-y_{2}$
 ##### Verhältnisskalen
 Intervallskalen mit interpretierbaren Nullpunkten.
 Beispiel: Körpergröße.
-Sinnvolle Aussagen: $x ist doppelt so groß wie y$
+Sinnvolle Aussagen: $x$ ist doppelt so groß wie $y$
 
 ### Datenmatrix
 
