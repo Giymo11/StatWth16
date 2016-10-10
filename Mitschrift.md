@@ -66,22 +66,34 @@ Sinnvolle Aussagen: Zahlenmäßige Ausprägungen dienen nur der Kodierung.
 Anmerkung: Manchmal werden nominale Merkmale durch entsprechende Kodierung auf Ordinalniveu gehoben (zB Schularten). Dabei ist es wichtig, dass keine (eigenen) Wertungen einfließen.
 
 ##### Ordinalskalen
-Lineare Ordnugsbeziehung. 
+Lineare Ordnugsbeziehung.  
 Beispiele: Richterskala.  
 Sinnvolle Aussagen: Ordnung. $x < x+1$
 
 #### Metrische bzw Kardinale Skalen
 ##### Intervallskalen
-Intervallskalen deren Nullpunkte (falls vorhanden) allerdings keine absolute Bedeutung haben.
-Beispiel: Temperatur in $^{\circ}C$
+Intervallskalen deren Nullpunkte (falls vorhanden) allerdings keine absolute Bedeutung haben.  
+Beispiel: Temperatur in $^{\circ}C$  
 Sinvolle Aussagen: Differenzen. $x_{1}-x_{2} < y_{1}-y_{2}$
 
 ##### Verhältnisskalen
-Intervallskalen mit interpretierbaren Nullpunkten.
-Beispiel: Körpergröße.
-Sinnvolle Aussagen: $x$ ist doppelt so groß wie $y$
+Intervallskalen mit interpretierbaren Nullpunkten.  
+Beispiel: Körpergröße.  
+Sinnvolle Aussagen: $x$ ist doppelt so groß wie $y$  
 
 ### Datenmatrix
+Ausgangspunkt für eine _tabellarische_ oder _grafische_ Aufbereitung der Daten sind zunächst die _Rohdaten_ (auch _Urdaten_ oder _Primärdaten_). Die erhobenen Ausprägungen werden in einer Datenmatrix dargestellt. Die $p$ Spalten ensprechen den Merkmalen, die $n$ Zeilen den einzelnen Untersuchungseinheiten.  
+
+Für $p = 1$ (einspaltig) spricht man von _univariaten_, bei $p > 1$ (mehrspaltig) von _multivariaten_ Daten
+
+### Diskrete univariate Daten
+Die Darstellung von solchen Daten erfolgt durch Bestimmung von Häufigkeiten und einer geeigneten Visualisierung.
+
+#### Häufigkeiten
+
+Ein diskretes Merkmal $x_{1} < x_{2} < ...$ werde $n$ mal beobachtet.  
+Die _absolute Häufigkeit_ mit der $x_{i}$ beobachtet wurde, werde mit $n_{i}$ bezeichnet.  
+Die _relative Häufigkeit_ seien als $f_{i} = \frac{n_{i}}{n}$ bezeichnet.
 
 
 
