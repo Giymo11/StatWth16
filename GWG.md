@@ -39,6 +39,8 @@ Organisationen und Gesellschaften characterisiert durch
   * ist nicht: Zustandsänderung
 * historisch Gewachsen (Pfadabhängigkeit)
 
+Technik und Soziales war ürsprünglich getrennt gedacht.
+MISSING DATA
 
 
 
