@@ -9,10 +9,12 @@ Es ist ein ergebnis eines Konstruktions- und Produtionsprozesses
 MISSING DATA
 
 ## Beispiel Softwaresystem:
+
 Dazu gehört:
 * Konfigurationsdateien
 * System- und Benutzerdokumentation
 * Webseiten 
+
 Nicht allerdings:
 * Hardware
 * Nutzer
